@@ -231,7 +231,6 @@ body {
 .content {
 	position: relative;
 	top: 30px;
-	float: left;
 }
 a {
   color: #069;
@@ -2482,14 +2481,3 @@ button.btn::-moz-focus-inner, input[type=submit].btn::-moz-focus-inner {
   box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
 }
 
-
-/*two columns*/
-#left_side {
-	width: 68%;
-	float: left;
-}
-#right_side {
-	width: 30%;
-	float: left;
-}
-/*test*/
